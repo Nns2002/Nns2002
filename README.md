@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/1999_navneet" target="blank"><img src="https://img.shields.io/twitter/follow/1999_navneet?logo=twitter&style=for-the-badge" alt="1999_navneet" /></a> </p>
 
-- 🌱 I’m currently learning **TO BE A WEB DEVELOPER**
+- 🌱 I’m currently learning **TO BE A SOFTWARE DEVELOPER**
 
 - 👯 I’m looking to collaborate on **PYTHON WITH DSA**
 
